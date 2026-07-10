@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://i.ibb.co/VW1D25Yx/logo.png" alt="Moita Blocker Logo" width="120">
+<img src="https://i.ibb.co/VW1D25Yx/logo.png" alt="Moita Blocker Logo" width="320">
 
 # 🛑 MOITA BLOCKER
 
-**The ultimate, uncompromising app blocker for Android. Lock in your focus, block out the noise.**
+**The most uncompromising, bypass-proof focus app for Android. Lock in, block out the noise, and win your day.**
 
 [![Download Latest](https://img.shields.io/badge/Download-Latest_APK-black?style=for-the-badge&logo=android)](https://github.com/Mohit-Jhajhria/Moita-blocker-down/releases/latest)
 
@@ -13,32 +13,45 @@
 ---
 
 ## ✦ The Vision 🎯
-Most digital wellbeing apps are too easy to bypass when temptation hits. **MOITA BLOCKER** brings a strict, unbreakable blocking experience to Android. It is designed to do exactly one thing perfectly: protect your attention so you can get your time back. 
+If you are reading this, you already know that standard "wellbeing" apps don't work. When the urge to scroll kicks in, they are simply too easy to turn off. 
 
-## ✨ Why You'll Love It
-* 🛡️ **Unbreakable Focus:** Built for those times when sheer willpower just isn't enough. Set your limits, and Moita Blocker holds you to them.
-* 🔒 **100% Offline & Private:** No cloud syncing, no accounts, no data collection. Everything happens locally on your device. Your habits and usage data stay strictly yours.
-* ⚡ **Frictionless Design:** Set it up in seconds, put your phone down, and get back to what actually matters. 
+**MOITA BLOCKER** is built differently. It doesn't ask politely. It is engineered to be completely unbreakable, surviving aggressive phone background systems that kill other apps, ensuring that when you lock a distraction, it *stays* locked. It respects your time, your attention, and your privacy.
 
----
-
-## 📥 How to Install
-
-Because MOITA BLOCKER is a system-level utility, it is distributed directly here via APK. Getting started takes just three simple steps:
-
-1. 📲 **Download:** Grab the latest `.apk` file from our [Releases page](https://github.com/Mohit-Jhajhria/Moita-blocker-down/releases/latest).
-2. ⚙️ **Allow Access:** When you tap the downloaded file, your phone may ask for permission to "Install unknown apps." Simply tap **Settings** and allow it for your browser or file manager.
-3. 🚀 **Install & Focus:** Tap **Install**, open the app, and set up your first block!
-
-> 🔐 *Note: The app will request Accessibility permissions during setup. This is strictly required to monitor and block distracting apps locally, and is never used to read your personal screen content.*
+## ✨ Built for True Focus
+* 🛡️ **Bypass-Proof Blocking:** When a session is active, the app firmly keeps you out. No accidental closures, no quick workarounds.
+* 🔇 **Instant Media Silence:** The second you try to open a forbidden app, your background audio/video (like YouTube) is violently cut off, immediately resetting your focus.
+* 🔒 **100% Offline & Private:** Your data belongs to you. Zero cloud syncing, zero accounts, and absolutely zero background battery drain when the screen is off.
+* 🤖 **Accountability Mode:** Need an extra shield? You can pair the app with a Telegram bot so a designated friend or partner has to approve your breaks remotely.
 
 ---
 
-## 💬 Feedback & Support
-Your experience matters to us! 💡 If you run into a bug, or if you have an idea to make **MOITA BLOCKER** even stronger, please [open an issue](https://github.com/Mohit-Jhajhria/Moita-blocker-down/issues). 
+## 📥 Getting Started
+
+Because MOITA BLOCKER requires system-level permissions to ensure it cannot be bypassed, it is distributed directly here as a secure APK.
+
+### 📦 Step 1: Choose Your Download
+Head over to our **[Releases Page](https://github.com/Mohit-Jhajhria/Moita-blocker-down/releases/latest)**. You will see a few choices:
+
+| File Name | Which one do I click? |
+| :--- | :--- |
+| 🌟 **Universal (Full)** | **If you aren't sure, click this!** It works on 100% of Android phones. |
+| 🚀 **arm64-v8a (Split)** | Optimized for modern smartphones (above android 11). Saves space! |
+| 📱 **armeabi-v7a (Split)** | Optimized for older or budget devices(below android 12). |
+| 💻 **x86_64 (Split)** | Specifically for PC-based Android emulators. |
+
+### ⚙️ Step 2: Installation
+1. Download your chosen file from the table above.
+2. Tap the downloaded file. If your phone warns you about installing from "Unknown Sources," tap **Settings** and toggle the switch to allow it.
+3. Tap **Install**, open the app, and follow the simple initial setup guide to grant focus permissions.
+
+---
+
+## 💬 Feedback & Ideas
+Your productivity journey matters to us. If you encounter an unexpected bug, or want to suggest a feature that makes the digital shield even stronger, feel free to **[open a community issue](https://github.com/Mohit-Jhajhria/Moita-blocker-down/issues)**.
 
 <br>
 
 <div align="center">
-  Crafted with ❤️ by the <b>Moita Team</b>
+  <i>Built with ❤️ for unbreakable focus.</i> <br>
+  <b>Moita Team</b>
 </div>
